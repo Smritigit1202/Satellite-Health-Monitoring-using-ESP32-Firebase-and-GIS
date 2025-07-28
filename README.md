@@ -73,6 +73,8 @@ By tagging each data point with **GPS coordinates**, the data becomes GIS-ready 
 ---
 ## Circuit Diagram
 
+<img width="898" height="431" alt="image" src="https://github.com/user-attachments/assets/ab2e85f3-1554-419b-a9e0-38211e0d5af5" />
+
 ---
 ## Working Video
 
