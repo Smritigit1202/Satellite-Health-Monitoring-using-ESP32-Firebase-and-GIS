@@ -71,7 +71,21 @@ By using **IoT principles**, we simulate a satellite’s thermal and power telem
 By tagging each data point with **GPS coordinates**, the data becomes GIS-ready for spatial analysis.
 
 ---
+## Circuit Diagram
 
+---
+## Working Video
+
+
+---
+
+## Plotted points from csv
+
+
+
+
+----
+---
 ## ⚙️ Procedure
 
 1. **Simulate Hardware:**
