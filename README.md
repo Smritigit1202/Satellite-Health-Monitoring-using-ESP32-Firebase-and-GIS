@@ -88,6 +88,7 @@ https://github.com/user-attachments/assets/c991ca47-631a-4ade-a8dd-a6a4119c859f
 ## Plotted points from csv
 
 
+<img width="959" height="485" alt="image" src="https://github.com/user-attachments/assets/bae6e576-71d4-4eb1-a7b6-252242462819" />
 
 
 ----
